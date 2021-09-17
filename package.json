@@ -1,0 +1,20 @@
+{
+  "name": "papago-cli",
+  "version": "1.0.0",
+  "description": "see readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "papago.cli"
+  ],
+  "bin": {
+    "papago": "./index.js"
+  },
+  "author": "youngho park",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4"
+  }
+}
